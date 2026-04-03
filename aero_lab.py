@@ -22,7 +22,7 @@ st.markdown("""
 
 # --- INITIALIZE GROQ ---
 # Note: In a production environment, use st.secrets["GROQ_API_KEY"]
-client = Groq(api_key="YOUR_GROQ_API_KEY")
+client = Groq(api_key="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")
 
 # --- DATA ENGINE ---
 @st.cache_data
